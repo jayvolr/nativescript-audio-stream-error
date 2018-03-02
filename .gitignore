@@ -2,8 +2,6 @@ npm-debug.log
 .DS_Store
 .vscode
 
-*.js.map
-app/**/*.js
 hooks/
 lib/
 node_modules/
